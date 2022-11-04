@@ -8,7 +8,7 @@
 ![ezgif com-gif-maker (12)](https://user-images.githubusercontent.com/105389265/200002499-3e637cd0-8dc3-475e-89d6-4eba911654db.gif)
 ![ezgif com-gif-maker (11)](https://user-images.githubusercontent.com/105389265/200002514-faee7d04-d419-456d-bf9b-f5b00567e6f8.gif)
 ![ezgif com-gif-maker (10)](https://user-images.githubusercontent.com/105389265/200002542-693304d9-00aa-4de2-a3ab-e69dcff05db0.gif)
-![ezgif com-gif-maker (9)](https://user-images.githubusercontent.com/105389265/200002579-e5569f45-3920-483f-9be6-1426c8bb6811.gif)
+
 
 
 # Getting Started with Create React App
