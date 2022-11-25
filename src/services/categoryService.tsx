@@ -11,7 +11,7 @@ export const categorySave = (categoryTitle:string) => {
 
     return siteConfig.post<ICategory>("category/save",sendParams)
 }
- 
+ //isa
 export const categoryList = () => {
     return siteConfig.get<ICategory>("category/list")
 }
