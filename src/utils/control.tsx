@@ -4,6 +4,7 @@ import { decrypt } from "./encdecrypt"
 
 export const control = () : IJwt | null => {
     // remember control
+    console.log('control')
     const stRemember = localStorage.getItem('user')
     if ( stRemember ) {
         sessionStorage.setItem('user', stRemember)
